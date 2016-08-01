@@ -1,8 +1,3 @@
----
-output: 
-  html_document: 
-    fig_caption: yes
----
 # Reproducible Research: Peer Assessment 1
 
 ## Loading and preprocessing the data
